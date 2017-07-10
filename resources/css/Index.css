@@ -11,31 +11,41 @@ h1 {
   
 }
 
+h3 {
+font-size: 16px;
+text-align: center;
+color: Aquamarine;
+}
+
 h2 {
-font-size: 32px;
-font-weight: bold;
-color: white;
+	font-size: 42px;
+	font-weight: 300;
+	color: White;
+	text-align: center;
 }
 
-#brush{
-background-color: mediumspringgreen;
+p {
+font-size: 21px;
+color: Gray;
+text-align: center;
+}
+.maintext {
+text-align: center;
 }
 
-#frame{
-background-color: lightcoral;
+.footer {
+text-align: right;
 }
 
-#finnish{
-background-color: skyblue;
+img{
+margin:0px auto;
+display:block;
+}
+video {
+  width: 50%;
+  height: 440px;
+  margin: 0 auto;
+  display: block;
 }
 
-p, li {
-  font-size: 18px;
-}
-
-
-.price {
-color: blue;
-font-weight: bold;
-}
 
